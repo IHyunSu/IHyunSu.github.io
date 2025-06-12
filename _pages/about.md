@@ -15,7 +15,7 @@ UI/UX의 흐름을 이해하고 사용자 경험을 고려한 개발에 관심�
 
 ---
 
-## 관심 기술 스택
+## Technology Stack of Interest
 - **프론트엔드**: HTML, CSS, JavaScript, TypeScript  
 - **프레임워크**: React, Next.js  
 - **디자인**: Tailwind CSS, Figma  
@@ -23,21 +23,21 @@ UI/UX의 흐름을 이해하고 사용자 경험을 고려한 개발에 관심�
 
 ---
 
-## 앞으로 하고 싶은 일
+## What I want to do in the future
 - **Next.js로 웹 앱 개발**  
 - **모바일 앱으로 확장 가능한 구조 설계**  
 - 개인 혹은 팀 프로젝트를 통해 **실제 유저가 사용하는 서비스**를 만들어 보고 싶습니다.
 
 ---
 
-## 현재 학습 중인 주제
+## Topics currently being studied
 - Next.js 기반의 SSR/CSR 구조 이해  
 - Firebase와의 연동을 통한 백엔드 기초  
 - 사용자 중심의 인터랙션 디자인 구현
 
 --- 
 
-## 현재 진행 중인 프로젝트
+## Projects currently in progress
 
 ### KNUMAP
 > 경북대학교 주변 가게 정보를 제공하는 웹 앱
@@ -57,7 +57,7 @@ UI/UX의 흐름을 이해하고 사용자 경험을 고려한 개발에 관심�
 
 ---
 
-## 연락처
+## contact
 - GitHub: [@IHyunSu](https://github.com/IHyunSu)  
 - 이메일: zmfnwj119@gmail.com
 - 위치: 대한민국 대구광역시  
