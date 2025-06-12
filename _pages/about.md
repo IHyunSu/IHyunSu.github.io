@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "이현수 / 프론트엔드 개발자 지망생"
+title: "이현수"
 author_profile: true
 redirect_from:
   - /about/
