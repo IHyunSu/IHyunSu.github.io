@@ -11,22 +11,19 @@ redirect_from:
 
 ---
 
-## 관심 기술 스택
+## Technology Stack of Interest
 - **프론트엔드**: HTML, CSS, JavaScript, TypeScript  
 - **프레임워크**: React, Next.js  
 
 ---
 
-## 앞으로 하고 싶은 일
-- **Next.js로 웹 앱 개발**  
-- **모바일 앱으로 확장 가능한 구조 설계**  
 
----
-
-## 현재 학습 중인 주제
+## Topics currently being studied
 - Next.js 기반의 SSR/CSR 구조 이해  
 
-## 연락처
+--- 
+
+## contact
 - GitHub: [@IHyunSu](https://github.com/IHyunSu)  
 - 이메일: zmfnwj119@gmail.com
 - 위치: 대한민국 대구광역시  
